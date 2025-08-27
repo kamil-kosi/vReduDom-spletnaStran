@@ -47,10 +47,11 @@
   }
   
   .hero {
-    background: linear-gradient(to right, #5c7aea, #8ec5fc);
-    color: white;
-    padding: 100px 0;
-    text-align: center;
+  background: url('images/hero-background.jpg') no-repeat center center/cover;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+  position: relative;
   }
   .hero h2 {
     font-size: 2.5em;
